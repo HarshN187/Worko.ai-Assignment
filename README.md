@@ -2,7 +2,7 @@
  
 # Project Overview
 
--This project implements a User API with CRUD operations using Express.js and MongoDB. The API includes endpoints for creating, -reading, updating, and deleting users.
+This project implements a User API with CRUD operations using Express.js and MongoDB. The API includes endpoints for creating, reading, updating, and deleting users.
 
 ## Getting Started
 
