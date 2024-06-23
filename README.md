@@ -23,7 +23,7 @@ This project implements a User API with CRUD operations using Express.js and Mon
 
 3. Create a .env file in the root directory and add the following:
 
-    DB_URI=mongodb+srv://harsh:A5k7J0YhOfzvgaeO@cluster0.2ny6svi.mongodb.net/worko-ai
+    DB_URI=mongodb+srv://harsh:<pass>O@cluster0.2ny6svi.mongodb.net/worko-ai
     JWT_SECRET=your_jwt_secret_key
     PORT=5000
 
